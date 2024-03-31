@@ -1,6 +1,6 @@
 import axios from "axios";
 import toast from "react-hot-toast";
-const API_URL = "http://localhost:8000/tweets";
+const API_URL = "https://twitter-clone-bys6.onrender.com/tweets";
 
 export const createTweet = async (tweet, accessToken) => {
   try {

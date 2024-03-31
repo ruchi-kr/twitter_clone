@@ -1,3 +1,3 @@
 deployed link  = 
 mongodb url = mongodb+srv://ruchi2017:welcome123@eccomerceapp.8w6ri00.mongodb.net/twitter
-github link = 
+github link = https://github.com/ruchi-kr/twitter_clone
